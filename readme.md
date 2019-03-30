@@ -6,7 +6,7 @@
 2. 启动测试
 
   ```
-  npm test
+  yarn test
   ```
 
 
